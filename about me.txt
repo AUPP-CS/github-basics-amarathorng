@@ -1,5 +1,6 @@
 Name: Thorng Amara
 
+About Me:
 I am an ICT student with a strong interest in technology and innovation.
 I enjoy learning programming and improving my skills every day.
 I like challenging myself and working on projects that help me grow.
